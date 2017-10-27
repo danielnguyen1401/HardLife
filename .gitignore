@@ -1,5 +1,4 @@
 # Object file
-*.o
+/Binaries/
 
-# Ada Library Information
-*.ali
+
